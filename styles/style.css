@@ -1,0 +1,45 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;500&display=swap');
+
+/* 
+font-family: 'Bebas Neue', cursive;
+font-family: 'Roboto', sans-serif; 
+*/
+
+.nav-bg-color-cc{
+    background-color: #FFFBF0;
+}
+.nav-text-cc{
+    color: #3C3C3C;
+    font-family: 'Roboto', sans-serif;
+}
+.main-logo-cc{
+    width: 291px;
+    height: 39px;
+}
+.width-header-cc{
+    width: 500px;
+}
+.nav-width-cc{
+    width: ;
+}
+
+@media only screen and (max-width: 540px){
+    .main-logo-cc{
+        margin-left: 20px;
+        width: 192px;
+        height: 26px;
+    }
+    .width-header-cc{
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 1000px){
+    .width-header-cc{
+        width: 900px;
+    }
+    .nav-width-cc{
+        width: 414px;
+    }
+}
