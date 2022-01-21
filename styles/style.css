@@ -79,7 +79,17 @@ font-family: 'Roboto', sans-serif;
     border-radius: 10px;
     border: none;
 }
-
+footer{
+    background-color: rgb(13, 13, 14);
+    margin-top: 50px;
+}
+footer p{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(196, 191, 191);
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+}
 
 /* -------------------------
     Seciton - 3 styles 
